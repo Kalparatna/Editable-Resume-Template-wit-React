@@ -104,16 +104,3 @@ To customize your resume:
 ## Contributing
 
 Feel free to fork this project and contribute by submitting pull requests. Any improvements or bug fixes are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Happy coding! 🎉
-```
-
-### Updates:
-- I added a **Project Images** section with a table layout to display images. 
-- You can replace `path-to-your-imageX.jpg` with the actual paths or URLs of the images you want to display.
